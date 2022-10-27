@@ -1,7 +1,7 @@
 
 import ServerHttp from '../server/index.js'
 
-export class Application {
+export default class Application {
 
     constructor(){
         console.clear();

@@ -1,4 +1,4 @@
-export class File {
+export default class File {
     constructor(){
              
     }

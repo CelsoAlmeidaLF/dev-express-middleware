@@ -1,5 +1,5 @@
 
-import {Application} from './application.js'
+import Application from './application.js'
 
 class Program extends Application {
     constructor(){

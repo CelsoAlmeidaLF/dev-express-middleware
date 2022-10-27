@@ -9,7 +9,7 @@ let _data = undefined
 let _log = undefined
 let _email = undefined
 
-export class Business {
+export default class Business {
     constructor(){
         _log = new Log();
         _file = new File();

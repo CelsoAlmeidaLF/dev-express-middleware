@@ -1,4 +1,4 @@
-export default class Model{
+export default class Log {
     constructor(){
         
     }
